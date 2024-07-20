@@ -1,7 +1,19 @@
-h1 {
-	color: #25b0e6;
-	text-align: center;
-	font-size: 5em;
-	background-color: #f1f97c;
-	margin: 0;
+html {
+	font-size: 16px;
 }
+
+h2 {
+	font-size: 2em;
+	font-variant: initial;
+	font-weight: 400;
+	font-style: initial;
+	font-family: "Roboto", sans-serif;
+}
+
+/*
+Font size
+Absolute keywords - small, medium, large
+Relative keywords - smaller, larger, x-small, x-large, xx-small, xx-large
+Percentage
+EM unit: em
+*/
